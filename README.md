@@ -30,3 +30,6 @@ HTML5 Way of things (New Way)
 *** these are the new SEMANTIC tags
 
 In collaboration with webcode geeks and Fred Rodolfo
+
+HTML: 
+file:///Users/mariomacias/ucb-sfc-fsf-pt-06-2020-u-c/01-HTML-Git-CSS/02-Homework/Develop/index.html
