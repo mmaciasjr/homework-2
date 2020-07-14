@@ -29,3 +29,4 @@ HTML5 Way of things (New Way)
 <footer></footer>
 *** these are the new SEMANTIC tags
 
+In collaboration with webcode geeks and Fred Rodolfo
